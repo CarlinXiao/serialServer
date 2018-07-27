@@ -1,4 +1,4 @@
-# serialServer
+# Qt5.9 serialServer
 串口调试助手server端，使用时需要导入txt文件。
 
 txt样式如CRLCDtest.txt
